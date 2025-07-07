@@ -1,0 +1,9 @@
+
+
+.imagem-circular {
+  width: 200px;        
+  height: 200px;
+  border-radius: 100%;  
+  object-fit: cover;    
+  border: 3px solid #012997; 
+}
